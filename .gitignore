@@ -1,0 +1,5 @@
+db.sqllite3
+__pycache__/
+asgi.py
+wsgi.py
+__init__.py
